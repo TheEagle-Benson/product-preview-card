@@ -1,0 +1,23 @@
+{
+  "name": "product_preview_card",
+  "version": "1.0.0",
+  "description": "product preview card component",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEagle-Benson/product-preview-card.git"
+  },
+  "author": "The Eagle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEagle-Benson/product-preview-card/issues"
+  },
+  "homepage": "https://github.com/TheEagle-Benson/product-preview-card#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
