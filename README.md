@@ -37,7 +37,7 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
 
 ### Continued development
-I suck at UI and responsive design.. I want to shift my focus on that.
+I suck at UI and responsive design.. I want to shift my focus to that.
 
 ## Author
 - Frontend Mentor - [Benson Sappor](https://www.frontendmentor.io/profile/TheEagle-Benson)
